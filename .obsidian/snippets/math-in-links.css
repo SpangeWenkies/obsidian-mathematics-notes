@@ -1,0 +1,6 @@
+/* Render math inside wikilink aliases */
+.markdown-preview-view a.internal-link span.math,
+.markdown-preview-view a.internal-link span.math-inline {
+    font-size: 1em;
+    vertical-align: baseline;
+}
